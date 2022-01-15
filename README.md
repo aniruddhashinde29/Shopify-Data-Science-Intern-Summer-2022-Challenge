@@ -1,1 +1,1 @@
-# Shopify-Data-Science-Intern-Fall-2021-Challenge
+# Shopify-Data-Science-Intern-Summer-2022-Challenge
